@@ -1,0 +1,7 @@
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Console\bin\Debug\GildedRose.Console.exe.config
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Console\bin\Debug\GildedRose.Console.exe
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Console\bin\Debug\GildedRose.Console.pdb
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Console\obj\Debug\GildedRose.Console.csprojAssemblyReference.cache
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Console\obj\Debug\GildedRose.Console.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Console\obj\Debug\GildedRose.Console.exe
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Console\obj\Debug\GildedRose.Console.pdb

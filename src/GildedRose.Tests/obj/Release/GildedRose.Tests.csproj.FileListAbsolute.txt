@@ -1,0 +1,13 @@
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Tests\build_output\xunit.abstractions.dll
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Tests\build_output\xunit.runner.visualstudio.testadapter.dll
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Tests\build_output\xunit.runner.utility.desktop.dll
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Tests\build_output\xunit.execution.desktop.dll
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Tests\build_output\GildedRose.Tests.dll
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Tests\build_output\xunit.assert.dll
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Tests\build_output\xunit.core.dll
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Tests\build_output\xunit.assert.pdb
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Tests\build_output\xunit.assert.xml
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Tests\build_output\xunit.core.pdb
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Tests\build_output\xunit.core.xml
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Tests\obj\Release\GildedRose.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bbdnet1785\workspace\training\dojo\GildedRose\src\GildedRose.Tests\obj\Release\GildedRose.Tests.dll
